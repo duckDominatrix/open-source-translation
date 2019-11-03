@@ -1,4 +1,6 @@
 # Translation in open source projects(articles and resources)
+In the process of studying and working with tools and concepts
+of web development with the possibility of sending articles.
 
 MDN Web Docs:
   - [Glossary/Encapsulation](https://wiki.developer.mozilla.org/en-US/docs/Glossary/Encapsulation)
