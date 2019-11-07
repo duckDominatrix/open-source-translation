@@ -14,4 +14,4 @@ MDN Web Docs:
 - [Glossary/AJAX](https://developer.mozilla.org/en-US/docs/Glossary/AJAX)
   ([RU](https://developer.mozilla.org/ru/docs/Словарь/AJAX))
 - [Glossary/XHR_(XMLHttpRequest)](https://developer.mozilla.org/en-US/docs/Glossary/XHR_(XMLHttpRequest))
-  ([RU](https://developer.mozilla.org/ru/docs/Словарь/XHR_(XMLHttpRequest))
+  ([RU](https://developer.mozilla.org/ru/docs/Словарь/XHR_(XMLHttpRequest)))
