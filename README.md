@@ -11,3 +11,7 @@ MDN Web Docs:
   ([RU](https://wiki.developer.mozilla.org/ru/docs/%D0%A1%D0%BB%D0%BE%D0%B2%D0%B0%D1%80%D1%8C/HTTP))
   - [Glossary/HTTP_2](https://wiki.developer.mozilla.org/en-US/docs/Glossary/HTTP_2)
   ([RU](https://wiki.developer.mozilla.org/ru/docs/%D0%A1%D0%BB%D0%BE%D0%B2%D0%B0%D1%80%D1%8C/HTTP_2))
+- [Glossary/AJAX](https://wiki.developer.mozilla.org/en-US/docs/Glossary/AJAX)
+  ([RU](https://wiki.developer.mozilla.org/ru/docs/Словарь/AJAX))
+- [Glossary/XHR_(XMLHttpRequest)](https://wiki.developer.mozilla.org/en-US/docs/Glossary/XHR_(XMLHttpRequest))
+  ([RU](https://wiki.developer.mozilla.org/ru/docs/%D0%A1%D0%BB%D0%BE%D0%B2%D0%B0%D1%80%D1%8C/XHR_(XMLHttpRequest)))
