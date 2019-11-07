@@ -1,6 +1,7 @@
 # Translation in open source projects(articles and resources)
-In the process of studying and working with tools and concepts
-of web development with the possibility of sending articles.
+
+In the process of studying and working with tools and concepts of web development I add translation.
+It helps me build on my skills and understanding of technology. Also contribute to the development of the Internet community.
 
 MDN Web Docs:
   - [Glossary/Encapsulation](https://developer.mozilla.org/en-US/docs/Glossary/Encapsulation)
